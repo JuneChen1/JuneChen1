@@ -1,4 +1,5 @@
-### Hi！My name is June.
+#### Hi！My name is June.
+Medium：https://medium.com/@juneee
 
 <!--
 **JuneChen1/JuneChen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
