@@ -1,7 +1,12 @@
 #### Hi！My name is June.
-Medium profile：[https://medium.com/@juneee](https://medium.com/@juneee)
 
+***
 
++ Medium profile：[https://medium.com/@juneee](https://medium.com/@juneee)
+
+<br>
+
++ <img width="744" height="202" alt="Codewars Profile Badges" src="https://www.codewars.com/users/JuneChen1/badges/small" />
 <!--
 **JuneChen1/JuneChen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
