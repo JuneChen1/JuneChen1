@@ -21,6 +21,10 @@
   * **持久防斷**：自動讀取 JSON 資料，Bot 重啟後會自動重新排程並清除過期資料。
   </details>
 
+* **圖個方便 | PicShare** - 圖片分享網站 (開發進行中)
+
+  [專案連結](https://github.com/JuneChen1/image-sharing-platform)
+
 ---
 ## 🚀 團隊協作專案 | Projects
 * **圖片壓縮與轉檔** — 開發進行中
