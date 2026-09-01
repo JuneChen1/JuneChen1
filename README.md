@@ -27,7 +27,7 @@
 
 ---
 ## 🚀 團隊協作專案 | Projects
-* **圖片壓縮與轉檔** — 開發進行中
+* **圖片壓縮與轉檔** — 為圖片檔案進行尺寸調整、格式轉換的工具。
   
   [專案連結](https://github.com/suanriz/imageCompress)
    <details>
