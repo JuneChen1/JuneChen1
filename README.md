@@ -25,6 +25,18 @@
 
   [專案連結](https://github.com/JuneChen1/image-sharing-platform)
 
+* **圖片工具箱 | Image Tools** — 提供圖片尺寸調整、格式轉換與拼接等功能。
+
+  [專案連結](https://github.com/JuneChen1/image-tools)
+  <details>
+  <summary>💡 核心功能 </summary>
+  
+  * **圖片分割**：將單張圖片切分為 2~4 張直條圖，並可單張下載或打包 ZIP。
+  * **圖片合併**：可將 2~3 張圖片由上至下拼接為長圖，並支援調整順序與自訂分隔線顏色。
+  * **批次壓縮**：壓縮時可自由調校品質 (10%–100%) 與最長邊限制，並顯示省下的容量百分比。
+  * **批次轉檔**：將圖片批次轉換為 WebP、JPEG、PNG 或 AVIF 格式，轉為 JPEG 時提供自訂背景填色以處理透明圖層。
+  </details>
+
 ---
 ## 🚀 團隊協作專案 | Projects
 * **圖片壓縮與轉檔** — 為圖片檔案進行尺寸調整、格式轉換的工具。
